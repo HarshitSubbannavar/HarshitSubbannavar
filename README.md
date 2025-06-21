@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Harshit Subbannavar
 
-🚀 Aspiring Cybersecurity Professional<br>🎯 Focused on: Red Teaming & Blue Teaming<br><br>📚 Learning From:<br>Red Team Hacker Academy | Apponix Technologies | CISCO Academy<br><br>🔍 Areas of Interest:<br>Web/Network Pentesting | SIEM | Threat Hunting | Cloud Security<br><br>💻 Skills:<br>Kali Linux | Metasploit | Burp Suite | Nmap | Wireshark | Splunk | Web App Penetration Testing<br><br>Vulnerability Assessment<br><br>🛠️ Current Projects:<br>Building a Cybersecurity Lab (Kali Linux & Windows VM)<br><br>Web App Penetration Testing (WAPT)<br><br>📜 Certifications:<br>Cisco Intro to Cybersecurity (✅ Completed)<br><br>Ongoing: Red Team Hacker Academy CEH<br><br>🌟 Goals:<br>To explore cybersecurity and discover my specialization.
+🚀 Aspiring Cybersecurity Professional<br>🎯 Focused on: Red Teaming & Blue Teaming<br><br>📚 Learning From:<br>Red Team Hacker Academy | CISCO Academy<br><br>🔍 Areas of Interest:<br>Web/Network Pentesting | SIEM | Threat Hunting | Cloud Security<br><br>💻 Skills:<br>Kali Linux | Metasploit | Burp Suite | Nmap | Wireshark | Splunk | Web App Penetration Testing<br><br>Vulnerability Assessment<br><br>🛠️ Current Projects:<br>Building a Cybersecurity Lab (Kali Linux & Windows VM)<br><br>Web App Penetration Testing (WAPT)<br><br>📜 Certifications:<br>Cisco Intro to Cybersecurity (✅ Completed)<br><br>Ongoing: Red Team Hacker Academy CEH<br><br>🌟 Goals:<br>To explore cybersecurity and discover my specialization.
 
 
 ## 🌐 Socials:
